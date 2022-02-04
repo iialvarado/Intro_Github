@@ -11,3 +11,5 @@ Mi experiencia con la herramienta Github ha sido genial, el mentor explica muy b
 Ivonne Alvarado
 
 ### Insertaremos una imagen
+
+![Github](IMG/montañismo.jpg)
